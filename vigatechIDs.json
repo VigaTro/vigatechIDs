@@ -4,9 +4,13 @@
     "mains": { "id": 1179737 , "type": "swords" },
     "VigaTroS": { "id": 1222591003, "type": "swords_premium" },
     "VigaTroH": { "id": 1222591003, "type" : "horse" },
+    
     "9WS7M-2L8KN-3ELU2-PALHN": { "id":1204245386, "type": "napoleonic_premium" },
     "TJ86C-9Z4BH-W4EJZ-6GQAR": { "id": 5539304, "type": "swords_premium" },
     "T4SAQ-WDFXB-RXGU3-7J7V2": { "id": 16709160, "type": "swords_premium" },
+    "FG7A3-9WBFJ-5DTH4-DEP92": {"id": 91695595, "type": "siege" },
+    "FG7A3-9WBFJ-5DTH4-DEP92": {"id": 17036712, "type": "siege"},
+    
     "5539304H": { "id": 5539304, "type": "horse" },
     "4088364008": { "id": 4088364008, "type": "horse" },
     "24294281S": { "id": 24294281, "type": "swords_premium" },
