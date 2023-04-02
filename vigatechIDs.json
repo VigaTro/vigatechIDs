@@ -1,12 +1,12 @@
 {
     "mainh": { "id": 1179737, "type": "horse" },
-    "mainsp": { "id":1179737, "type": "swords_premium" },
+    "mainsp": { "id": 1179737, "type": "swords_premium" },
     "mains": { "id": 1179737 , "type": "siege" },
     "VigaTroS": { "id": 1222591003, "type": "swords_premium" },
     "VigaTroH": { "id": 1222591003, "type" : "horse" },
     "VigaTroSI": { "id": 1222591003, "type" : "siege" },
     
-    "9WS7M-2L8KN-3ELU2-PALHN": { "id":1204245386, "type": "napoleonic_premium" },
+    "9WS7M-2L8KN-3ELU2-PALHN": { "id": 1204245386, "type": "napoleonic_premium" },
     "TJ86C-9Z4BH-W4EJZ-6GQAR": { "id": 5539304, "type": "swords_premium" },
     "T4SAQ-WDFXB-RXGU3-7J7V2": { "id": 16709160, "type": "swords_premium" },
     "FG7A3-9WBFJ-5DTH4-DEP92": {"id": 91695595, "type": "siege" },
